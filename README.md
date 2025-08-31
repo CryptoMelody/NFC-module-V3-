@@ -4,7 +4,8 @@ photo_2025-08-31_18-32-45
 
 In the photo is HSU:  
 
-![483975921-93efc4a3-392a-4c2a-83d2-23647f8d8f4e](https://github.com/user-attachments/assets/12e6ca18-53cb-4c59-b6d3-1c2c44703e1e)
+![483975614-b5aceacc-ba3f-4ce7-9ca9-f118bea44f8e](https://github.com/user-attachments/assets/2279f437-f986-4567-a2a9-9fedc4fbccec)
+
 
 
 But in the code we are using SPI, so we have to switch the second button into 1: 
