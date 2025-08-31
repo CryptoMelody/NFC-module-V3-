@@ -1,7 +1,5 @@
 To work with the shield you have to use ONLY library "Adafruit_PN32" with other library it doesn't work and i dunno why:(
 
-photo_2025-08-31_18-32-45
-
 In the photo is HSU:  
 
 ![483975614-b5aceacc-ba3f-4ce7-9ca9-f118bea44f8e](https://github.com/user-attachments/assets/2279f437-f986-4567-a2a9-9fedc4fbccec)
