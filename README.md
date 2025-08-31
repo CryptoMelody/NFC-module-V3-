@@ -1,3 +1,5 @@
+This project and others was made a long time ago, so that's why some of the **projects doesn't have any connections!!!!!!**NOW I WILL UPLOAD ALL MY WORKS ONLY ON GITHUB AND THEY WILL INCLUDE ALL INFORMATION!
+
 To work with the shield you have to use ONLY library "Adafruit_PN32" with other library it doesn't work and i dunno why:(
 
 In the photo is HSU:  
