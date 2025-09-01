@@ -15,3 +15,5 @@ In the photo is HSU:
 But in the code we are using SPI, so we have to switch the second button into 1: 
 
 ![483975921-93efc4a3-392a-4c2a-83d2-23647f8d8f4e](https://github.com/user-attachments/assets/e9f47afb-a369-4d33-b906-5acaf14bf4ef)
+
+Link for the library: https://github.com/adafruit/Adafruit-PN532
